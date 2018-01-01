@@ -1,0 +1,17 @@
+{
+    "name": "nazmusshakib/practice-form",
+    "description": "Looking forward to learn something new.",
+    "type": "project",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Nazmus Shakib",
+            "email": "nshakib.se@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4" : {"Inc\\": "./inc"}
+    }
+}
